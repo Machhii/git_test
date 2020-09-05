@@ -1,1 +1,1 @@
-This is Machi's first git project!
+This is Machi's first git project! Say hello!
